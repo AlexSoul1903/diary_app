@@ -1,16 +1,7 @@
 # diary_app
 
-A new Flutter project.
+<h1>Alex Manuel Frias Molina. (2021-1954)</h1>
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p>Esta es una aplicación que puede ser usada por las personas para guardar entradas tipo diario, en las que podra registrar una vivencia con su foto, titulo, descripcion, fecha y audio.</p>

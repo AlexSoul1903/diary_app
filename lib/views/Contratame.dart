@@ -50,10 +50,10 @@ class Contratame extends StatelessWidget {
               textAlign: TextAlign.center,
             ),
             SizedBox(height: 24),
-            const Icon(Icons.person, size: 48),
+            const Icon(Icons.person, size: 90, color: Colors.white),
             SizedBox(height: 24),
             Text(
-              'Correo: 74164246+AlexSoul1903@users.noreply.github.com',
+              'GitHub: github.com/AlexSoul1903',
               style: TextStyle(
                 fontSize: 18,
                 fontWeight: FontWeight.bold,
@@ -63,7 +63,7 @@ class Contratame extends StatelessWidget {
             ),
             SizedBox(height: 24),
             const Text(
-              'Teléfono: 000-000-0000.',
+              'Contacto: utiliza el perfil de GitHub.',
               style: TextStyle(
                 fontSize: 18,
                 fontWeight: FontWeight.bold,
@@ -73,7 +73,7 @@ class Contratame extends StatelessWidget {
             ),
             SizedBox(height: 24),
             const Text(
-              'Linkedln: https://github.com/AlexSoul1903 .',
+              'Consultas del proyecto: abre una issue en su repositorio.',
               style: TextStyle(
                 fontSize: 18,
                 fontWeight: FontWeight.bold,

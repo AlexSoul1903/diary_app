@@ -3,8 +3,6 @@ import 'package:flutter/material.dart';
 class NavBar extends StatelessWidget {
   const NavBar({super.key});
 
-//AlexSoul1903.
-//Matricula: DEMO-ID.
 
   @override
   Widget build(BuildContext context) {
@@ -13,7 +11,7 @@ class NavBar extends StatelessWidget {
         children: [
           UserAccountsDrawerHeader(
             accountName: Text('Bienvenido. Cualquier inquietud contactar a:'),
-            accountEmail: Text('74164246+AlexSoul1903@users.noreply.github.com'),
+            accountEmail: Text('github.com/AlexSoul1903'),
             currentAccountPicture: CircleAvatar(
               child: ClipOval(
                 child: Image.asset(
